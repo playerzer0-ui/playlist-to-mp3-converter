@@ -31,4 +31,15 @@ choco install ffmpeg
  
  if all else fails, i don't know
  
+ ## the process
  
+ you can only send a playlist link, nothing else. 
+ 
+ you wait a moment...
+ 
+ program shuts down
+ 
+ check your downloads folder 
+ 
+ find sOngdOwnload
+
