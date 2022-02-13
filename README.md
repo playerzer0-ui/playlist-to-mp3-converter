@@ -8,7 +8,7 @@ you need FFmpeg as a pre-requisite
 
 you could try installing via chocolatey(if you haven't had chocolatey, go to powershell as administrator and type in this command)
 
-you it is administrator if you see C:\WINDOWS\system32>
+you know it is administrator if you see C:\WINDOWS\system32>
 
 ```
 Set-ExecutionPolicy Bypass -Scope Process -Force; `
