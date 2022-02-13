@@ -1,6 +1,6 @@
 # playlist-to-mp3-converter
 
-The executable file is in the "dist" folder
+The executable file is there, the source code is the one with ".py" extension.
 
 ## how to run the code
 
